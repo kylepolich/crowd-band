@@ -1,0 +1,3 @@
+CrowdBand is a project for crowdsourcing sound compositions through Amazon Mechanical Turk.  Requestors describe the kind of composition they want via keywords, and CrowdBand will request the fundamental sounds to use in the work, request assemblies of the provided sounds into short compositions, and select the best, or the preferred, works that the crowd has provided.
+
+This repository provides software and various sample results.
